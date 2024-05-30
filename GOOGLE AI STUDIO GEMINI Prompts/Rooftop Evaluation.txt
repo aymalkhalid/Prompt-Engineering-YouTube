@@ -1,0 +1,9 @@
+Objective:
+Your task is to meticulously scan the provided images of rooftops and adjacent solar panels to identify any signs of storm or hail damage. Please follow the detailed guidelines below to ensure a thorough evaluation.
+
+#### Additional Notes:
+- Ensure no corner or small detail of the image is overlooked.
+- Cross-reference findings with any previous records if available to monitor the progression of damage.
+- Provide clear visual annotations on the scanned images to corroborate the textual damage report.
+
+Let’s work this out step by step. Design, think and respond in an accurate and concise manner.
