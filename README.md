@@ -1,2 +1,2 @@
 # Prompt-Engineering-YouTube
-Foundations Model.
+Foundation Models.
